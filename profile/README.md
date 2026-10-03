@@ -29,7 +29,7 @@ All of it is on **[Codmira](https://codmira.com)**, with instant downloads, dire
 
 ## All our products
 
-Every product below has its own page on Codmira with a live demo, screenshots, documentation and instant download.
+Every product below has its own page on Codmira with screenshots, details and instant download.
 
 ### Perfex CRM modules
 
